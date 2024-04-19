@@ -21,4 +21,3 @@ for (const name of names) {
     console.log(name);
 }
 export {};
-i learn about for loop,while loop and for of loop.
